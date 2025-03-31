@@ -1,5 +1,5 @@
 # RandomNumberGenerator.Net
-Great question! The concept of "randomness" in computing is quite fascinating and involves both mathematical theory and practical implementation considerations.
+The concept of "randomness" in computing is quite fascinating and involves both mathematical theory and practical implementation considerations.
 
 ### Pseudorandom Number Generators (PRNGs)
 
